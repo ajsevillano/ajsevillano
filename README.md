@@ -1,4 +1,4 @@
-![](https://www.ajsevillano.com/header.jpg)
+![](https://github.com/ajsevillano/ajsevillano/blob/main/banner/header.jpg)
 
 Hi there! I'm Antonio, a self-taught front-End developer with an IT Background, who found his passion for coding and since then, I haven't stopped developing Apps and websites to becoming a professional developer. Absolutely in love with React and Next.js and passion for responsive website design. I'm a firm believer in the mobile-first approach.
 
