@@ -4,7 +4,7 @@ Hi there! I'm Antonio, a self-taught front-End developer with an IT Background, 
 
 Skills: REACT / NEXT.JS / JS / HTML / CSS / SASS
 
-- 🔭 I’m currently working on My portfolio
+- 🔭 I’m currently attending [School of code national bootcamp](https://www.schoolofcode.co.uk/) (Cohort 10)
 - 🌱 I’m currently learning React.js & Next.js
 - 👯 I’m looking to collaborate on Any kind of react based project
 - 📫 How to reach me: correo@ajsevillano.com
