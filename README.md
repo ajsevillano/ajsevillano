@@ -1,11 +1,9 @@
 ![](https://github.com/user-attachments/assets/c28ced2b-1ff6-49ab-8d56-094f777217f4)
 
-Hi there! I'm Antonio, a self-taught front-End developer with an IT Background, who found his passion for coding and since then, I haven't stopped developing Apps and websites to becoming a professional developer. Absolutely in love with React and Next.js and passion for responsive website design. I'm a firm believer in the mobile-first approach.
+My name is Antonio, although most people know me as Sevi. I'm a Spanish software engineer who has called the UK home for the past 10 years, with over 20 years working in IT behind me. During the pandemic I made the switch to what had always been my favourite part of the job — building software — and I haven't looked back since. These past years I've worked in insurtech at Percayso Inform, built and maintained production systems for long-term clients (a product catalogue platform and its API among them), and built side projects of my own, like a Jupiter moon tracker for fellow amateur astronomers. I'm now looking for the next chapter. Away from the keyboard, you'll find me behind a telescope chasing the sky!
 
 Skills: REACT / NEXT.JS / JS / HTML / CSS / SASS
 
-- 🔭 I’m currently attending [School of code national bootcamp](https://www.schoolofcode.co.uk/) (Cohort 10)
-- 🌱 I’m currently learning React.js & Next.js
 - 👯 I’m looking to collaborate on Any kind of react based project
 - 📫 How to reach me: correo@ajsevillano.com
 - ⚡ Fun fact: I was the national spanish angry birds champion back in 2012!
